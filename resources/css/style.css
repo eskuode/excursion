@@ -8,10 +8,7 @@ body {
   font-size: 50px;
   color: white;
 }
-.link--cta {
-  color: aquamarine;
-  font-size: 16px;
-}
+
 .header--secondary {
   color: white;
   font-weight: 300;
@@ -21,6 +18,10 @@ body {
   font-size: 21px;
   color: gray;
   font-weight: normal;
+}
+.link--cta {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 .camp {
